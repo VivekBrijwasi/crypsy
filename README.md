@@ -124,7 +124,3 @@ Contributions and suggestions are welcome.
 4. Test your changes.
 5. Submit a pull request describing your improvements.
 
-
-## 📄 License
-
-No license has been specified yet. Add a `LICENSE` file to the repository if you want to define the terms under which others may use, modify, or distribute this project.
